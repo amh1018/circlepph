@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python plot_main_cycle.py)",
+      "Bash(python -c \":*)",
+      "Bash(python3 -c \"import json; nb=json.load\\(open\\(''torus.ipynb''\\)\\); print\\(''cells:'', len\\(nb[''cells'']\\)\\)\")"
+    ]
+  }
+}
