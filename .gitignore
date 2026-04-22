@@ -1,0 +1,56 @@
+# ─── Computation caches ───────────────────────────────────────────
+# Regenerated on demand via MD5 config key — safe to rebuild on each machine.
+.homology_cache/
+.pph_cache/
+
+# ─── Python ───────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ─── Virtual environments ─────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ─── Jupyter ──────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ─── Generated figures / outputs ──────────────────────────────────
+# If you want these tracked, delete these three lines.
+*.png
+*.pdf
+output/
+figures/
+
+# ─── OS / editor cruft ────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# ─── Sensitive / local ────────────────────────────────────────────
+.env
+.env.local
+*.local

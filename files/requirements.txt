@@ -1,0 +1,14 @@
+# Core numerical / plotting
+numpy
+matplotlib
+networkx
+
+# Persistent path homology
+grpphati
+
+# Notebook
+jupyter
+ipykernel
+
+# Optional: strip notebook outputs on commit (see README)
+# nbstripout
